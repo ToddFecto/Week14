@@ -1,0 +1,17 @@
+Amazon Elastic Compute Cloud (EC2).
+EC2 Mnemonic: FIGHT DR MCPXZ AU(stin)
+F = FPGA
+I = IOPS
+G = Graphics
+H = High Disk Throughput
+T = Cheap general purpose (think T2 Micro)
+D = Density
+R = RAM
+M = Main choice for general purpose apps
+C = Compute
+P = Graphics (think Pics)
+X = Extreme Memory
+Z = Extreme Memory AND CPU
+A = Arm-based workloads
+U = bare Metal
+Virtual Machines in the cloud.
